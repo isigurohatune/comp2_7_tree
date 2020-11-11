@@ -1,4 +1,4 @@
-#include "Windows.h"                    // Windows API の機能定義
+﻿#include "Windows.h"                    // Windows API の機能定義
 #include <stdbool.h>
 #include "../include/libtree.h"
 
